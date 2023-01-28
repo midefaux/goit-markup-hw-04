@@ -1,3 +1,3 @@
-# goit-markup-hw-03
+# goit-markup-hw-04
 
-tercera tarea modelo de bloques
+cuarta tarea efectos y elementos decorativos
