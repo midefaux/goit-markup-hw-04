@@ -23,8 +23,8 @@ body ul {
   width: 1200px;
   padding-left: 15px;
   padding-right: 15px;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 img {
   display: block;
@@ -264,7 +264,8 @@ img {
   margin: 95px 15px;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: center;
+  gap: 30px;
 }
 .characteristics li {
   width: 270px;
@@ -309,7 +310,7 @@ img {
 }
 .our-activities ul {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   gap: 30px;
 }
 .our-activities img:active,
