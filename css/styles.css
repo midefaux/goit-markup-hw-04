@@ -148,7 +148,6 @@ img {
   background-color: var(--background-footer);
   color: #fff;
   padding-top: 60px;
-  padding-left: 200px;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
@@ -265,7 +264,6 @@ img {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  gap: 30px;
 }
 .characteristics li {
   width: 270px;
